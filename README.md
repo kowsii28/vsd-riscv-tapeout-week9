@@ -152,6 +152,10 @@ It is small enough to run efficiently through open-source tools but contains all
 
 ## 4.1 VSDBabySoC Architecture
 
+## 4.2 Real Block Diagram
+
+![VSDBabySoC Block Diagram](vsdbabysoc_block_diagram.png)
+
 The SoC consists of:
 
 - **Controller (FSM)** – Manages the overall operation  
